@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xlib", "xlib\xlib.csproj", "{5DCFD84F-E20D-4402-9749-EC0D371696F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunity", "xunity\xunity.csproj", "{B76108E8-37D6-4C05-A8A5-F420A1408F95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunity.Tests", "xunity.Tests\xunity.Tests.csproj", "{B76108E8-37D6-4C05-A8A5-F420A1408F95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
